@@ -1,0 +1,8 @@
+.vs/
+Debug/
+*.swp
+*.sln
+less_04/Debug/
+less_04/*.vcxproj
+less_04/*.filters
+less_04/*.user
